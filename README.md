@@ -1,2 +1,2 @@
-# Minist-rio-Casa-do-Pai-Corumb-
+# Casa-do-Pai-Corumba-
 Repositório para igreja Ministério Casa do Pai Corumbá
