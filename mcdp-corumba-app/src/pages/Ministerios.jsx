@@ -1,3 +1,8 @@
-export default function Home() {
-  return <h1>Página Home</h1>;
+export default function Ministerios() {
+  return (
+    <div style={{ padding: 24 }}>
+      <h1>Ministérios</h1>
+      <p>Ministérios e equipes da igreja.</p>
+    </div>
+  );
 }

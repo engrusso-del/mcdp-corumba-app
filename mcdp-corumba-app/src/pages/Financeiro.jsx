@@ -1,3 +1,8 @@
-export default function Home() {
-  return <h1>Página Home</h1>;
+export default function Financeiro() {
+  return (
+    <div style={{ padding: 24 }}>
+      <h1>Financeiro</h1>
+      <p>Controle financeiro da igreja.</p>
+    </div>
+  );
 }

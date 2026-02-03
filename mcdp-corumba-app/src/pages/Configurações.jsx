@@ -1,3 +1,8 @@
-export default function Home() {
-  return <h1>Página Home</h1>;
+export default function Configuracoes() {
+  return (
+    <div style={{ padding: 24 }}>
+      <h1>Configurações</h1>
+      <p>Configurações gerais do sistema da igreja.</p>
+    </div>
+  );
 }

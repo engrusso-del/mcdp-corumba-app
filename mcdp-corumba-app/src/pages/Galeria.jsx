@@ -1,3 +1,8 @@
-export default function Home() {
-  return <h1>Página Home</h1>;
+export default function Galeria() {
+  return (
+    <div style={{ padding: 24 }}>
+      <h1>Galeria</h1>
+      <p>Fotos e registros dos momentos da igreja.</p>
+    </div>
+  );
 }
