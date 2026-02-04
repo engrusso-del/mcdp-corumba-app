@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { useAuth } from "../hooks/useAuth";
-import menuConfig from "../config/menuConfig";
+import {nmenuConfig } from "../config/menuConfig";
 
 export default function Sidebar() {
   const { user } = useAuth();
@@ -30,4 +30,5 @@ export default function Sidebar() {
     </aside>
   );
 }
+
 
